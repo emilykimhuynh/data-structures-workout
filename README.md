@@ -35,6 +35,10 @@ TODO: add time/space complexity requirements
 
 - [ ] Array (automatically resizing vector)
 
+### C++
+
+- [ ] Array (automatically resizing vector)
+
 ## Expected functionalities
 
 - Stack
@@ -42,4 +46,3 @@ TODO: add time/space complexity requirements
 	- pop()
 	- peek()
 	- size()
-	- capacity()
